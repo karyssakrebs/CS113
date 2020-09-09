@@ -1,4 +1,4 @@
-# Data Struture Clue Program
+# Data Structure Clue Program
 ## Detective Jill + Assistant Jack, Clue simulation
 
 
