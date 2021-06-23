@@ -25,6 +25,7 @@ public class RandomClue {
     /*
      * ALGORITHM:
      *
+     *test comment
      *
      * PROMPT "Which theory to test? (1, 2, 3[random]): "
      * READ answerSet
