@@ -1,5 +1,9 @@
 package model;
 
+import org.junit.Assert;
+import org.junit.jupiter.api.Test;
+
+
 /**
  *
  * AssistantJackTest.java: JUnit tester for Assistant Jack
@@ -10,8 +14,7 @@ package model;
  *  @TODO   test for errors, test rest of assistant jack methods
  */
 
-import org.junit.Test;              //for @Test
-import org.junit.Assert;   //for asserTrue() method
+
 
 
 public class AssistantJackTest {
